@@ -11,7 +11,7 @@ coming up with ideas or solutions in a group.
 - 🤔 I’m looking for help with **Computer vision(OpenCV|TensorFlow)**
 - 💬 Ask me about **Typescript, ReactJs, TailwindCSS ExpressJs & MongoDB**
 - 📫 How to reach me: **nicelestin08@gmail.com**
-- 😄 Pronouns: **He**
+- 😄 Pronouns: **He/Him**
 
 ## ✉️ Find me on:
 

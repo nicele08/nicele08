@@ -5,11 +5,11 @@ technology, I've learned how to organize my time and make choices that will be g
 I can work well alone or with others, and I can communicate clearly, especially when
 coming up with ideas or solutions in a group.
 
-- 🔭 I’m currently working on **Seeds classification app using OpenCV**
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on **Web hosting site**
+- 🌱 I’m currently learning **Vue.js**
 - 👯 I’m looking to collaborate on **ReactJs web applications**
-- 🤔 I’m looking for help with **Computer vision(OpenCV|TensorFlow)**
-- 💬 Ask me about **Typescript, ReactJs, TailwindCSS ExpressJs & MongoDB**
+- 🤔 I’m looking for help with **Flutter app development**
+- 💬 Ask me about **Typescript, Next.js React.js, TailwindCSS Express.js & MongoDB**
 - 📫 How to reach me: **nicelestin08@gmail.com**
 - 😄 Pronouns: **He/Him**
 

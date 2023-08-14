@@ -34,4 +34,4 @@ Hi there! 👋 I'm Celestin, a Software engineer based in Kigali, Rwanda. I'm pa
 
 ![Celestin's GitHub stats](https://github-readme-stats-cele.vercel.app/api?username=nicele08&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-cele.vercel.app/api/top-langs/?username=nicele08&layout=compact&theme=radical)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nicele08&layout=compact&theme=radical)

@@ -1,6 +1,6 @@
 # Celestin Niyindagiriye - GitHub Profile
 
-Hi there! 👋 I'm Celestin, a Software engineer based in Kigali, Rwanda. I'm passionate about Web/Mobile develoment and love to work on projects that make a difference. I'm always eager to learn new technologies and improve my skills.
+Hi there! 👋 I'm Celestin, a Software engineer based in Kigali, Rwanda. I'm passionate about Web/Mobile development and love to work on projects that make a difference. I'm always eager to learn new technologies and improve my skills.
 
 - 🔭 I’m currently working on **Stock Management System**
 - 🌱 I’m currently learning **Kotlin**

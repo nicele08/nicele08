@@ -26,9 +26,3 @@ Hi there! 👋 I'm Celestin, a Full-stack developer based in Kigali, Rwanda. I'm
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-
-## 📈 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicele08)](https://github.com/anuraghazra/github-readme-stats)
-
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nicele08&layout=compact&theme=radical)

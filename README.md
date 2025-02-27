@@ -1,11 +1,8 @@
 # Celestin Niyindagiriye - GitHub Profile
 
-Hi there! 👋 I'm Celestin, a Software engineer based in Kigali, Rwanda. I'm passionate about Web/Mobile development and love to work on projects that make a difference. I'm always eager to learn new technologies and improve my skills.
+Hi there! 👋 I'm Celestin, a Full-stack developer based in Kigali, Rwanda. I'm passionate about Web/Mobile development and love to work on projects that make a difference.
 
-- 🔭 I’m currently working on **Stock Management System**
-- 🌱 I’m currently learning **Kotlin**
 - 👯 I’m looking to collaborate on **Open Source Collaboration**
-- 🤔 I’m looking for help with **GraphQL for Spring boot**
 - 💬 Ask me about **Typescript, Next.js React.js**
 - 📫 How to reach me: **nicelestin08@gmail.com**
 - 😄 Pronouns: **He/Him**

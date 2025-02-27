@@ -29,6 +29,6 @@ Hi there! 👋 I'm Celestin, a Full-stack developer based in Kigali, Rwanda. I'm
 
 ## 📈 GitHub Stats
 
-![Celestin's GitHub stats](https://github-readme-stats-cele.vercel.app/api?username=nicele08&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicele08)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nicele08&layout=compact&theme=radical)

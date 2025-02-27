@@ -10,7 +10,6 @@ Hi there! 👋 I'm Celestin, a Full-stack developer based in Kigali, Rwanda. I'm
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/your-linkedin-username/)](https://www.linkedin.com/in/nicelestin/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&labelColor=blue&link=https://twitter.com/your-twitter-username)](https://twitter.com/niyindagiriye)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:your-email-address)](mailto:nicelestin08@gmail.com)
 
 ## 🛠️ Technologies & Tools
